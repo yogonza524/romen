@@ -5,8 +5,8 @@
   font-family: "elegant-theme-line";
   src: url('#{resource["fonts:elegant-theme-line.ttf"]}?1439850014') format('truetype'), 
       url('#{resource["fonts:elegant-theme-line.eot"]}?1439850014') format('embedded-opentype'), 
-      url('#{resource["fonts:elegant-theme-line.svg]}?1439850014') format('svg'), 
-      url('#{resource["fonts:elegant-theme-line.woff]}?1439850014') format('woff'); }
+      url('#{resource["fonts:elegant-theme-line.svg"]}?1439850014') format('svg'), 
+      url('#{resource["fonts:elegant-theme-line.woff"]}?1439850014') format('woff'); }
 .icon {
   font-family: 'elegant-theme-line';
   speak: none;
